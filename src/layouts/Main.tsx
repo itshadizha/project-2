@@ -8,6 +8,7 @@ const Main: FC = () => {
       <Button>Hadizha</Button>
       <Button>Adilet</Button>
       <Button>Aidin</Button>
+      <p>fix bag first</p>
     </div>
   );
 };
