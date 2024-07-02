@@ -10,9 +10,16 @@ const Header = () => {
 					backgroundColor: "black",
 				}}>
 				<Typography
-					sx={{ textAlign: "center", fontSize: "50px", color: "white" }}>
+					sx={{
+						textAlign: "center",
+						fontSize: "50px",
+						color: "white",
+					}}>
 					Проект
 				</Typography>
+				<Typography sx={{ color: "white" }}>Айдин</Typography>
+				<Typography sx={{ color: "white" }}>Адилет байке</Typography>
+				<Typography sx={{ color: "white" }}>Хадиша</Typography>
 			</Box>
 		</div>
 	);
